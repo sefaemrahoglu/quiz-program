@@ -1,0 +1,9 @@
+c:\users\neo\documents\visual studio 2013\Projects\quizprogram\quizprogram\bin\Debug\quizprogram.exe.config
+c:\users\neo\documents\visual studio 2013\Projects\quizprogram\quizprogram\bin\Debug\quizprogram.exe
+c:\users\neo\documents\visual studio 2013\Projects\quizprogram\quizprogram\bin\Debug\quizprogram.pdb
+c:\users\neo\documents\visual studio 2013\Projects\quizprogram\quizprogram\obj\Debug\quizprogram.csprojResolveAssemblyReference.cache
+c:\users\neo\documents\visual studio 2013\Projects\quizprogram\quizprogram\obj\Debug\quizprogram.Form1.resources
+c:\users\neo\documents\visual studio 2013\Projects\quizprogram\quizprogram\obj\Debug\quizprogram.Properties.Resources.resources
+c:\users\neo\documents\visual studio 2013\Projects\quizprogram\quizprogram\obj\Debug\quizprogram.csproj.GenerateResource.Cache
+c:\users\neo\documents\visual studio 2013\Projects\quizprogram\quizprogram\obj\Debug\quizprogram.exe
+c:\users\neo\documents\visual studio 2013\Projects\quizprogram\quizprogram\obj\Debug\quizprogram.pdb
